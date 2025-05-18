@@ -249,3 +249,32 @@ body {
 .contact-form button:hover {
   background-color: #00bfa5;
 }
+
+
+
+
+
+.footer {
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  color: #ffffff;
+  padding: 1.5rem 0;
+  text-align: center;
+  font-size: 0.95rem;
+  margin-top: 3rem;
+}
+
+.footer-links {
+  margin-top: 0.5rem;
+}
+
+.footer-links a {
+  color: #00e5ff;
+  margin: 0 0.7rem;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+  color: #ffffff;
+}
+
